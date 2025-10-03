@@ -52,5 +52,5 @@ This project demonstrates my **networking skills in iOS** (API integration, JSON
 ## 🧩 Installation
 1. Clone the repository:
    ```bash
-   [git clone https://github.com/yourusername/networking.git](https://github.com/Y-coderr/NetworkingTutorial.git)
+     https://github.com/Y-coderr/NetworkingTutorial.git
 
