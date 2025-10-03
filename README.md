@@ -1,4 +1,4 @@
-# 📈 CryptoTracker – iOS App
+# 📈  NetworkingTutorial– iOS App
 
 An iOS application that fetches **real-time cryptocurrency market data** using the [CoinGecko API](https://www.coingecko.com/en/api).  
 This project demonstrates my **networking skills in iOS** (API integration, JSON parsing, async handling) and also showcases **backend handling skills** such as data caching, error handling, and clean architecture.
